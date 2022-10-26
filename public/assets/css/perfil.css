@@ -1,0 +1,372 @@
+:root {
+  --main-blue: #45AAF4;
+  --bg-gray: #F6F6F6;
+  --text-gray: #9FA0A8;
+}
+
+.red{
+    border: 1px solid red;
+}
+.blue{
+    border: 1px solid #0000ff;
+}
+a{
+    color: var(--main-blue);
+    text-decoration: none;
+}
+.navbar-cs{
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+}
+.icon-nav{
+    text-decoration: none;
+}
+.icon-nav.mr{
+    margin-right: 20px;
+}
+.navbar-logo{
+    height: 20px;
+}
+.navbar-menu{
+    height: 18px;
+}
+.navbar-video{
+    height: 22px;
+}
+.menu{
+    margin-right: 0 !important;
+    margin-top: 3px;
+}
+.dropdown{
+    margin-right: 15px;
+}
+.show-xs{
+    display: none;
+}
+.info{
+    margin-top: 70px;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: SFProBold;
+}
+.title{
+    font-size: 22px;
+}
+.subtitle{
+    font-size: 14px;
+    color: var(--text-gray);
+    font-family: FuturaPTDemi;
+}
+.info-img{
+    height: 100%;
+    border-radius: 20px;
+}
+.carousel-inner{
+    border-radius: 15px;
+}
+.carousel-indicators [data-bs-target]{
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+}
+.consultant-img{
+    height: 60px;
+    border-radius: 50%;
+    border-style: double;
+    border: 2px solid white;
+    /* outline: 2px solid #E7E3E3; */
+    box-shadow:0 0 0 2px #E7E3E3;
+}
+.consultant-img.active{
+    /* outline: 2px solid var(--main-blue); */
+    box-shadow:0 0 0 2px var(--main-blue);
+}
+.mr-cs{
+    margin-right: 40px;
+}
+.share-lnk{
+    color: black;
+}
+.share-lnk:hover{
+    color: black;
+}
+.share-icon{
+    display: inline-block;
+    border-radius: 60px;
+    padding: 0.5em 0.6em;
+    background-color: var(--bg-gray);
+    font-size: 18px;
+}
+.description{
+    color: var(--text-gray);
+    font-family: SFProRegular;
+    font-size: 14px;
+}
+.verified{
+    height: 16px;
+}
+.name{
+    font-size: 22px;
+}
+.details{
+    font-size: 14px;
+    color: var(--text-gray);
+    font-family: FuturaPTDemi;
+}
+.booking-desk{
+    padding-left: 10px;
+}
+.booking-mobile{
+    display: none;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    z-index: 9999;
+    padding-inline:20%;
+    padding-block:20px;
+    background-color: white;
+}
+.btn-book{
+  background-image: linear-gradient(to right, #00BEF7 , #1A66EB);
+  border: none;
+  color:white;
+  width:100%;
+  height:100%;
+  font-size: 15px;
+  border-radius: 5px;
+  padding-block: 13px;
+  padding-left: 15px;
+  font-family: FuturaPTDemi;
+}
+.btn-book:hover{
+    color: white;
+}
+.next-date{
+    margin-top: 10px;
+    font-size: 12px;
+    color: var(--text-gray);
+    font-family: FuturaPTDemi;
+}
+.fa-circle.dot{
+    font-size: 9px;
+    color: var(--main-blue);
+}
+.tag{
+    margin-right: 20px;
+    background-color: var(--bg-gray);
+    padding: 10px 20px;
+    border-radius: 10px;
+    white-space: nowrap;
+    margin-bottom: 20px;
+    font-family: FuturaPTDemi;
+    font-size: 15px;
+}
+.tag.social{
+    padding: 10px 15px;
+    color: var(--main-blue);
+}
+.experience-list,.expertise-list,.review-tags,.lang-list,.social-list{
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+}
+.xp{
+    background-color: var(--bg-gray);
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-right: 20px;
+    white-space: nowrap;
+    margin-bottom: 20px;
+}
+.title-xp{
+    font-size: 15px;
+    font-family: FuturaPTDemi;
+}
+.opc-xp{
+    display: block;
+    color: var(--text-gray);
+    font-size: 14px;
+    font-family: SFProRegular;
+}
+.expertise{
+    margin-top: 30px;
+}
+.expertise,.lang,.social,.reviews-list{
+    /* padding-bottom: 30px; */
+}
+.reviews{
+    background-color: var(--bg-gray);
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: SFProBold;
+}
+.see-all{
+    float: right;
+}
+.reviews-list{
+    padding-top: 30px;
+}
+.review{
+    background-color: white;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.review:last-of-type{
+    margin-bottom: 50px;
+}
+.user-img{
+    height: 50px;
+    border-radius: 50%;
+}
+.review-info,.image-user{
+    padding-left: 20px;
+}
+.review-tags{
+    padding-block: 20px;
+}
+.review-tag{
+    margin-right: 20px;
+    background-color: var(--bg-gray);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 12px;
+    white-space: nowrap;
+    font-family: FuturaPTDemi;
+}
+.review-description{
+    font-family: SFProRegular;
+    color: var(--text-gray);
+}
+.col-cs{
+    width: 50%;
+    float: left;
+}
+.user-img{
+    margin-right: 20px;
+}
+.footer{
+    padding: 10px 30px;
+    background-color: white;
+}
+.footer a{
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+}
+@media only screen and (min-width: 950px) {
+    .slider{
+        padding-right: 5%;
+    }
+    .information{
+        padding-right: 5%;
+    }
+}
+@media only screen and (max-width: 340px) {
+    .icon-nav.videocall{
+        display: none;
+    }
+    .show-xs{
+        display: block;
+    }
+}
+@media only screen and (max-width: 1605px) {
+    .info{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}
+@media only screen and (max-width: 1280px) {
+   .info-img{
+        height: 90%;
+   } 
+}
+@media only screen and (max-width: 1180px) {
+   .info-img{
+    height: 80%;
+   } 
+}
+@media only screen and (max-width: 1080px) {
+   .info-img{
+    height: 65%;
+   } 
+}
+@media only screen and (max-width: 949px) {
+    .info{
+        margin-top: 75px;
+    }
+    .col-cs{
+        width: 100%;
+    }
+    .hide-mobile{
+        display: none;
+    }
+    .info-img{
+        height: auto;
+        width: 100%;
+    }
+    .information{
+        margin-top: 40px;
+    }
+    .share{
+        margin-left: auto; 
+        margin-right: 0;
+    }
+    .mr-cs{
+        margin-right: 70px;
+    }
+    .review-info{
+        width: 90%;
+        padding-left: none;
+    }
+    .booking-desk{
+        display: none;
+    }
+    .booking-mobile{
+        display: block;
+    }
+    .review:last-of-type{
+        margin-bottom: 130px;
+    }
+}
+@media only screen and (max-width: 549px) {
+    .booking-mobile{
+        padding-inline:5%;
+        
+    }
+    /* .title{
+        font-size: 18px;
+    }
+    .subtitle{
+        font-size: 12px;
+    } */
+    .mr-cs{
+        margin-right: 50px;
+    }
+}
+@media only screen and (max-width: 449px) {
+    .title{
+        font-size: 18px;
+    }
+    .subtitle{
+        font-size: 12px;
+    } 
+    .mr-cs{
+        margin-right: 30px;
+    }
+    .review{
+        padding: 20px 15px;
+    }
+    .review-info{
+        padding-left: 15px;
+    }
+}
+@media only screen and (max-width: 359px) {
+    .mr-cs{
+        margin-right: 15px;
+    }
+    .review-description{
+        width: 90%;
+        font-size: 12px;
+    }
+}

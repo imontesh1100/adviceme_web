@@ -1,0 +1,28 @@
+@font-face {
+  font-family: SFProBold;
+  src: url(fonts/SF-Pro-Display-Bold.otf);
+}
+@font-face {
+  font-family: SFProLight;
+  src: url(fonts/SF-Pro-Display-Light.otf);
+}
+@font-face {
+  font-family: SFProRegular;
+  src: url(fonts/SF-Pro-Display-Regular.otf);
+}
+@font-face {
+  font-family: AmsiProBold;
+  src: url(fonts/Stawix-AmsiPro-Bold.otf);
+}
+@font-face {
+  font-family: AmsiProRegular;
+  src: url(fonts/Stawix-AmsiPro-Regular.otf);
+}
+@font-face {
+  font-family: AmsiProNarw;
+  src: url(fonts/Stawix-AmsiProNarw-SemiBold.otf);
+}
+@font-face {
+  font-family: FuturaPTDemi;
+  src: url(fonts/FuturaPTDemi.otf);
+}

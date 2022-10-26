@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>health</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M36.55747,28.1363904 C37.9535028,26.7172953 39.8473232,25.92 41.8220753,25.92 C43.7968275,25.92 45.6906478,26.7172953 47.0866807,28.1363904 C48.4829889,29.5544333 49.2676954,31.4786358 49.2676954,33.4850685 C49.2676954,35.4915011 48.4829889,37.4157036 47.0864906,38.8339397 L36.9632906,49.1195439 C36.5160785,49.5739306 35.7910043,49.5739306 35.3437921,49.1195439 L25.2205921,38.8339396 C22.3131359,35.8798397 22.313136,31.0902973 25.2205922,28.1361974 C28.1280485,25.1820974 32.8419665,25.1820974 35.7494228,28.1361973 L36.1535414,28.5467991 L36.55747,28.1363904 Z" id="path-1"></path>
+    </defs>
+    <g id="Web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="950-px-a-1605-px-=-100%" transform="translate(-112.000000, -1642.000000)">
+            <g id="middle" transform="translate(84.000000, 1438.000000)">
+                <g id="cell-1" transform="translate(0.000000, 176.000000)">
+                    <g id="health" transform="translate(28.000000, 28.000000)">
+                        <circle id="Oval" fill="#FFFFFF" cx="36" cy="36" r="36"></circle>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Shape" stroke="#34A1FF" stroke-width="2.5" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

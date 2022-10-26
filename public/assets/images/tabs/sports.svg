@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_home_sports</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_home_sports" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.282714844">
+        <g id="Group" transform="translate(3.000000, 3.000000)" stroke="#000000" stroke-width="2.8">
+            <rect id="Rectangle" x="0" y="0" width="27" height="27" rx="13.5"></rect>
+            <path d="M8.08148937,1.19607097 C12.2779594,3.74959898 15.2942984,7.19225937 17.1305061,11.5240521 C18.9667139,15.8558449 19.7728741,20.5144942 19.5489865,25.5" id="Path-54" stroke-linecap="round"></path>
+            <path d="M0.231888746,12.0205183 C4.83347257,11.9617194 9.33633247,11.244366 13.7404684,9.86845831 C18.1446044,8.49255058 21.4149514,6.73141872 23.5515093,4.58506274" id="Path-55" stroke-linecap="round"></path>
+            <path d="M4.99616308,23.7105738 C9.23821802,19.6050415 13.0754793,16.9350792 16.5079469,15.7006871 C19.9404144,14.4662949 23.4377655,13.6820777 27,13.3480355" id="Path-56" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_home_business</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_home_business" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.282714844" stroke-linecap="round">
+        <g id="Group-9" transform="translate(3.300000, 3.000000)" stroke="#000000" stroke-width="3">
+            <path d="M0,13.3083164 L0,8.13286004 C0,6.90786334 0.993056037,5.9148073 2.21805274,5.9148073 L24.3985801,5.9148073 C25.6235768,5.9148073 26.6166329,6.90786334 26.6166329,8.13286004 L26.6166329,13.3083164 M26.6166329,14.020284 L26.6166329,21.8026369 C26.6166329,23.644669 25.6235768,25.137931 24.3985801,25.137931 L2.21805274,25.137931 C0.993056037,25.137931 -2.66453526e-13,23.644669 -2.66453526e-13,21.8026369 L-2.66453526e-13,14.020284" id="Shape"></path>
+            <path d="M7.39350913,4.9148073 L7.39350913,1.84305274 C7.39350913,0.825162818 8.38656516,0 9.61156187,0 L17.005071,0 C18.2300677,0 19.2231237,0.825162818 19.2231237,1.84305274 L19.2231237,4.9148073" id="Path" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

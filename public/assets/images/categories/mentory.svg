@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>mentory</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1,606-px-en-adelante" transform="translate(-2618.000000, -2209.000000)">
+            <g id="middle" transform="translate(297.000000, 1995.000000)">
+                <g id="cell-1" transform="translate(2293.000000, 186.000000)">
+                    <g id="mentory" transform="translate(28.000000, 28.000000)">
+                        <circle id="Oval" fill="#FFFFFF" cx="36" cy="36" r="36"></circle>
+                        <g transform="translate(23.500000, 25.000000)" id="Shape" stroke="#34A1FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5">
+                            <path d="M21.6177778,12.4325926 C24.3963837,9.65398665 24.3963837,5.14897631 21.6177778,2.37037037 C18.8391718,-0.408235571 14.3341615,-0.408235571 11.5555556,2.37037037 L3.55555556,10.3703704 L3.55555556,20.4444444 L13.6296296,20.4444444 L21.6177778,12.4325926 Z"></path>
+                            <path d="M16.5925926,7.40740741 L0,24"></path>
+                            <path d="M17.7777778,15.7037037 L8.2962963,15.7037037"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

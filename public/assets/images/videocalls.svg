@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="41px" viewBox="0 0 56 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>videocalls</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="550-px-a-949-px." transform="translate(-1000.000000, -60.000000)">
+            <g id="videocalls" transform="translate(1002.000000, 62.000000)">
+                <g id="No-calls" transform="translate(8.709677, 8.709677)" fill="#000000">
+                    <path d="M6.99716882,0 L26.478287,0 C30.3412114,0 33.4754558,3.13359827 33.4754558,6.99908762 L33.4754558,22.6138156 C33.4754558,26.4718392 30.3427166,29.6129032 26.478287,29.6129032 L6.99716882,29.6129032 C3.1342444,29.6129032 0,26.479305 0,22.6138156 L0,6.99908762 C0,3.141064 3.13273919,0 6.99716882,0 Z M35.3309958,10.3436032 L44.4239203,5.10473647 C44.8999055,4.83049871 45.2903229,5.05120144 45.2903229,5.60092723 L45.2903229,24.6774194 L35.3309958,18.9418857 L35.3309958,10.3436032 Z" id="Rectangle-3"></path>
+                </g>
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="3" fill="#08A5F4" cx="9.65322581" cy="9.65322581" r="9.65322581"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
